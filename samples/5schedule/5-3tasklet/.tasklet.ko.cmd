@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/4schedule/4-2tasklet/tasklet.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/4schedule/4-2tasklet/tasklet.ko /root/fgj/test/examples/4schedule/4-2tasklet/tasklet.o /root/fgj/test/examples/4schedule/4-2tasklet/tasklet.mod.o

@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/1drivermodel/1-10block/simdisk.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/1drivermodel/1-10block/simdisk.ko /root/fgj/test/examples/1drivermodel/1-10block/simdisk.o /root/fgj/test/examples/1drivermodel/1-10block/simdisk.mod.o

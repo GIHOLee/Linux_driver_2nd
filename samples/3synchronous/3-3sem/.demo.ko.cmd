@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/samples/3synchronous/3-3sem/demo.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/samples/3synchronous/3-3sem/demo.ko /root/fgj/test/samples/3synchronous/3-3sem/demo.o /root/fgj/test/samples/3synchronous/3-3sem/demo.mod.o

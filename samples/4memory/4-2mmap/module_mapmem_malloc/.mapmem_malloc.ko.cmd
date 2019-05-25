@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/3memory/module_mapmem_malloc/mapmem_malloc.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/3memory/module_mapmem_malloc/mapmem_malloc.ko /root/fgj/test/examples/3memory/module_mapmem_malloc/mapmem_malloc.o /root/fgj/test/examples/3memory/module_mapmem_malloc/mapmem_malloc.mod.o

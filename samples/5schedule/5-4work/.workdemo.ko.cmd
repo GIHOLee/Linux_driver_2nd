@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/4schedule/4-3work/workdemo.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/4schedule/4-3work/workdemo.ko /root/fgj/test/examples/4schedule/4-3work/workdemo.o /root/fgj/test/examples/4schedule/4-3work/workdemo.mod.o

@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/3memory/3-5module_listhead/hello.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/3memory/3-5module_listhead/hello.ko /root/fgj/test/examples/3memory/3-5module_listhead/hello.o /root/fgj/test/examples/3memory/3-5module_listhead/hello.mod.o

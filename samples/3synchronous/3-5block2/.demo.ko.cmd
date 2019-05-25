@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/samples/2synchronous/2-7block2/demo.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/samples/2synchronous/2-7block2/demo.ko /root/fgj/test/samples/2synchronous/2-7block2/demo.o /root/fgj/test/samples/2synchronous/2-7block2/demo.mod.o

@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/buildok/module_appfile/hello.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/buildok/module_appfile/hello.ko /root/fgj/test/buildok/module_appfile/hello.o /root/fgj/test/buildok/module_appfile/hello.mod.o

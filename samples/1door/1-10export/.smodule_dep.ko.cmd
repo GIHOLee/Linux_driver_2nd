@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/samples/1door/1-10export/smodule_dep.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/samples/1door/1-10export/smodule_dep.ko /root/fgj/test/samples/1door/1-10export/smodule_dep.o /root/fgj/test/samples/1door/1-10export/smodule_dep.mod.o

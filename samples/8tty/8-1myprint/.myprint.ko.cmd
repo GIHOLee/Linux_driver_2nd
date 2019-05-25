@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/8-1myprint/myprint.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/8-1myprint/myprint.ko /root/fgj/test/examples/8-1myprint/myprint.o /root/fgj/test/examples/8-1myprint/myprint.mod.o

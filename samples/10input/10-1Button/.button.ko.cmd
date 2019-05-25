@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/samples/11input/11-1Button/button.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/samples/11input/11-1Button/button.ko /root/fgj/test/samples/11input/11-1Button/button.o /root/fgj/test/samples/11input/11-1Button/button.mod.o

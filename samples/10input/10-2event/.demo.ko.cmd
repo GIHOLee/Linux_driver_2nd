@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/samples/10input/10-2event/demo.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/samples/10input/10-2event/demo.ko /root/fgj/test/samples/10input/10-2event/demo.o /root/fgj/test/samples/10input/10-2event/demo.mod.o

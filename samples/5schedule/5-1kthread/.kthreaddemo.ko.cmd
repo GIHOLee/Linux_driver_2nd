@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/4schedule/4-1kthread/kthreaddemo.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/4schedule/4-1kthread/kthreaddemo.ko /root/fgj/test/examples/4schedule/4-1kthread/kthreaddemo.o /root/fgj/test/examples/4schedule/4-1kthread/kthreaddemo.mod.o

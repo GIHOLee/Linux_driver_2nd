@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/else/15-4module_plateform/hello.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/else/15-4module_plateform/hello.ko /root/fgj/test/examples/else/15-4module_plateform/hello.o /root/fgj/test/examples/else/15-4module_plateform/hello.mod.o

@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/samples/6hardsimple/6-4led_2/demo.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/samples/6hardsimple/6-4led_2/demo.ko /root/fgj/test/samples/6hardsimple/6-4led_2/demo.o /root/fgj/test/samples/6hardsimple/6-4led_2/demo.mod.o

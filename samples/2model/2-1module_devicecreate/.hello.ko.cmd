@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/else/15-3module_devicecreate/hello.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/else/15-3module_devicecreate/hello.ko /root/fgj/test/examples/else/15-3module_devicecreate/hello.o /root/fgj/test/examples/else/15-3module_devicecreate/hello.mod.o

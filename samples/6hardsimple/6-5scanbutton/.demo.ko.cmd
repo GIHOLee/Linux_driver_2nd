@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/samples/5hardsimple/5-4scanbutton/demo.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/samples/5hardsimple/5-4scanbutton/demo.ko /root/fgj/test/samples/5hardsimple/5-4scanbutton/demo.o /root/fgj/test/samples/5hardsimple/5-4scanbutton/demo.mod.o

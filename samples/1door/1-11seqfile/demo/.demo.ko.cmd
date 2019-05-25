@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/samples/1door/1-11seqfile/demo/demo.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/samples/1door/1-11seqfile/demo/demo.ko /root/fgj/test/samples/1door/1-11seqfile/demo/demo.o /root/fgj/test/samples/1door/1-11seqfile/demo/demo.mod.o

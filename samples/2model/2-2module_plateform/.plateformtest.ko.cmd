@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/samples/else/15-4module_plateform/plateformtest.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/samples/else/15-4module_plateform/plateformtest.ko /root/fgj/test/samples/else/15-4module_plateform/plateformtest.o /root/fgj/test/samples/else/15-4module_plateform/plateformtest.mod.o

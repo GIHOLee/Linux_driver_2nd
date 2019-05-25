@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/1drivermodel/1-9proc/proc/demo.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/1drivermodel/1-9proc/proc/demo.ko /root/fgj/test/examples/1drivermodel/1-9proc/proc/demo.o /root/fgj/test/examples/1drivermodel/1-9proc/proc/demo.mod.o

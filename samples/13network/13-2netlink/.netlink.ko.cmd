@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/9-1netlink/netlink.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/9-1netlink/netlink.ko /root/fgj/test/examples/9-1netlink/netlink.o /root/fgj/test/examples/9-1netlink/netlink.mod.o

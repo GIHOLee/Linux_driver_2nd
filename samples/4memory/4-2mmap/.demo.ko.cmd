@@ -1,0 +1,1 @@
+cmd_/root/fgj/test/examples/3memory/3-2mmap/demo.ko := arm-none-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /root/fgj/test/examples/3memory/3-2mmap/demo.ko /root/fgj/test/examples/3memory/3-2mmap/demo.o /root/fgj/test/examples/3memory/3-2mmap/demo.mod.o
